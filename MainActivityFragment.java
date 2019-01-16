@@ -164,6 +164,6 @@ public class MainActivityFragment extends Fragment {
     }
 
     private void printImage() {
-
+// print
     }
 }
